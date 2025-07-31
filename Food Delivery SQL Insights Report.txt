@@ -1,0 +1,52 @@
+Food Delivery SQL Insights Report
+
+Project Overview:
+This analysis explores food delivery trends, delivery efficiency, customer behavior, and geographic demand patterns using advanced SQL.
+
+---
+
+1. Delivery Efficiency
+Metric: Avg delivery time per restaurant  
+Insight:  
+- Pizza Palace has an avg delivery time of 15 mins  
+- Sushi Spot takes ~25 mins, suggesting longer prep or farther reach  
+
+---
+
+2. Order Frequency
+Metric: Monthly order trends  
+Insight:  
+- Orders peaked in July 2025  
+- Dips observed during February—possibly due to weather or holidays  
+
+---
+
+3. Peak Hours
+Metric: Hour of day with highest orders  
+Insight:  
+- Most orders placed between 12 PM and 2 PM  
+- Lunch hour drives the highest traffic
+
+---
+
+4. Customer Retention
+Metric: Repeat customer count  
+Insight:  
+- 65% of customers are returning  
+- One customer ordered 4 times in a month
+
+---
+
+5. Regional Demand
+Metric: Order count by region per week  
+Insight:  
+- The Central region showed consistent weekly spikes  
+- Promotions or dense population likely influence this trend
+
+---
+
+Next Steps:
+- Combine SQL views with Tableau or Power BI dashboards  
+- Expand schema with promotions, reviews, and delivery issues  
+- Forecast delivery demand using time series modeling (future work)
+
